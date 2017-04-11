@@ -22,10 +22,6 @@ public class fxtest extends Application{
         //Scene scene1 = new Scene(, 600,600);
         primaryStage.setScene(scene);
 
-        //suk min kug
-        //suk min kug
-
-
         primaryStage.show();
     }
 
