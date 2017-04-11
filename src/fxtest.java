@@ -26,6 +26,7 @@ public class fxtest extends Application{
 =======
         //Gustaf är kortare //kusk
 >>>>>>> origin/master
+                // åsne
 
 
         primaryStage.show();
