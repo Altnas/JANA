@@ -3,6 +3,6 @@
  */
 public class Subsidary {
     public static void main(String[] args) {
-        System.out.println("Ey whats this shit?");
+        System.out.println("How does this work?");
     }
 }
