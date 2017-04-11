@@ -21,12 +21,6 @@ public class fxtest extends Application{
         grid.add(text,0,0,2,1);
         //Scene scene1 = new Scene(, 600,600);
         primaryStage.setScene(scene);
-<<<<<<< HEAD
-
-        //Suk min kug
-
-=======
->>>>>>> origin/master
 
         primaryStage.show();
     }
