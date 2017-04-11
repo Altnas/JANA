@@ -1,0 +1,10 @@
+public class Main {
+    public static void main (String[] args) {
+<<<<<<< HEAD
+        System.out.println("How do conflicts workingsn hejeeeeeee?");
+=======
+        System.out.println("How do conflicts workings?");
+        System.out.print("Super bad");
+>>>>>>> e9eeb1bb553d97d0958a596bcc6e16f648cd174f
+    }
+}
